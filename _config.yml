@@ -103,4 +103,6 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: ''
+  type: 'git'
+  repo: 'git@github.com:zoujian3820/zoujian3820.github.io.git'
+  branch: 'gh-pages'
